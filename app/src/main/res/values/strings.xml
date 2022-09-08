@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Letters-And-Words</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="huruf1">A</string>
+    <string name="huruf2">B</string>
+    <string name="huruf3">C</string>
+    <string name="huruf4">D</string>
+    <string name="huruf5">E</string>
+    <string name="huruf6">F</string>
+    <string name="huruf7">G</string>
+    <string name="huruf8">H</string>
+    <string name="huruf9">I</string>
+    <string name="huruf10">J</string>
+    <string name="huruf11">K</string>
+    <string name="huruf12">L</string>
+    <string name="huruf13">M</string>
+    <string name="huruf14">N</string>
+    <string name="huruf15">O</string>
+    <string name="huruf16">P</string>
+    <string name="huruf17">Q</string>
+    <string name="huruf18">R</string>
+    <string name="huruf19">S</string>
+    <string name="huruf20">T</string>
+    <string name="huruf21">U</string>
+    <string name="huruf22">V</string>
+    <string name="huruf23">W</string>
+    <string name="huruf24">X</string>
+    <string name="huruf25">Y</string>
+    <string name="huruf26">Z</string>
+
+    <string name="cover" />
+</resources>
